@@ -2,14 +2,14 @@
 <head>
 <body>
     <title>MERTESAYFAYAPIYORUM</title>
-seni cok seviyorum askimm
+seni çok seviyorum aşkımm
 <br>
-BENI SEVIYOR MUSUN?
+BENİ SEVİYOR MUSUN?
 <select name"liste">
 <option value="1" selected>HAYIR</option>
 <option value="2"         >EVET </option>
-<option value="3"         >cokkk </option>
-<option value="4"         >bitiyorum sana </option>
+<option value="3"         >ÇOKKK</option>
+<option value="4"         >ÖLÜYORUM SENİN İÇİN </option>
 
 </body>
 </html>
