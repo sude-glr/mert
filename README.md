@@ -2,9 +2,9 @@
 <head>
 <body>
     <title>MERTESAYFAYAPIYORUM</title>
-seni çok seviyorum aşkımm
+seni cok seviyorum askimm
 <br>
-BENİ SEVİYOR MUSUN?
+BENI SEVIYOR MUSUN?
 <select name"liste">
 <option value="1" selected>HAYIR</option>
 <option value="2"         >EVET </option>
